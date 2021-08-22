@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https;//mishra-madhav.github.io/todoist-clone/static/css/main.f0398eef.chunk.css",
+    "main.js": "/https;//mishra-madhav.github.io/todoist-clone/static/js/main.c69facdf.chunk.js",
+    "main.js.map": "/https;//mishra-madhav.github.io/todoist-clone/static/js/main.c69facdf.chunk.js.map",
+    "runtime-main.js": "/https;//mishra-madhav.github.io/todoist-clone/static/js/runtime-main.cd12e6e7.js",
+    "runtime-main.js.map": "/https;//mishra-madhav.github.io/todoist-clone/static/js/runtime-main.cd12e6e7.js.map",
+    "static/css/2.0440f8c5.chunk.css": "/https;//mishra-madhav.github.io/todoist-clone/static/css/2.0440f8c5.chunk.css",
+    "static/js/2.80e20695.chunk.js": "/https;//mishra-madhav.github.io/todoist-clone/static/js/2.80e20695.chunk.js",
+    "static/js/2.80e20695.chunk.js.map": "/https;//mishra-madhav.github.io/todoist-clone/static/js/2.80e20695.chunk.js.map",
+    "index.html": "/https;//mishra-madhav.github.io/todoist-clone/index.html",
+    "static/css/2.0440f8c5.chunk.css.map": "/https;//mishra-madhav.github.io/todoist-clone/static/css/2.0440f8c5.chunk.css.map",
+    "static/css/main.f0398eef.chunk.css.map": "/https;//mishra-madhav.github.io/todoist-clone/static/css/main.f0398eef.chunk.css.map",
+    "static/js/2.80e20695.chunk.js.LICENSE.txt": "/https;//mishra-madhav.github.io/todoist-clone/static/js/2.80e20695.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd12e6e7.js",
+    "static/css/2.0440f8c5.chunk.css",
+    "static/js/2.80e20695.chunk.js",
+    "static/css/main.f0398eef.chunk.css",
+    "static/js/main.c69facdf.chunk.js"
+  ]
+}
